@@ -25,7 +25,7 @@ if 'initialized' not in st.session_state:
         'Riad': {
             'color': '#3B82F6',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 28000},
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 280000},
                 {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 32500},
                 {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 25000}
             ]
