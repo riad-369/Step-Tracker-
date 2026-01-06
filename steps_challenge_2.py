@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import json
 
 # Page config
-st.set_page_config(page_title="3-Month Step Challenge!!", page_icon="🏆", layout="wide")
+st.set_page_config(page_title="3-Month Step Challenge", page_icon="🏆", layout="wide")
 
 # Initialize session state
 if 'participants' not in st.session_state:
@@ -25,9 +25,9 @@ if 'initialized' not in st.session_state:
         'Riad': {
             'color': '#3B82F6',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 280000},
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 28000},
                 {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 32500},
-                {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 25000}
+                {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 95000}
             ]
         },
         'Keith': {
@@ -185,7 +185,7 @@ def import_data(json_str):
 
 # Header
 st.title("🏆 3-Month Step Challenge")
-st.markdown("**Jan 12 - Apr 12, 2026**")
+st.markdown("**Jan 12 - Mar 31, 2026**")
 
 # Top stats
 col1, col2, col3 = st.columns(3)
@@ -219,16 +219,16 @@ with tab1:
         # Bigger medals for top 3
         if idx == 0:
             medal = "🥇"
-            medal_size = "### "
+            medal_size = "## "
         elif idx == 1:
             medal = "🥈"
-            medal_size = "### "
+            medal_size = "## "
         elif idx == 2:
             medal = "🥉"
-            medal_size = "### "
+            medal_size = "## "
         else:
             medal = f"#{idx + 1}"
-            medal_size = "#### "
+            medal_size = "### "
         
         col1, col2, col3 = st.columns([1, 6, 2])
         with col1:
