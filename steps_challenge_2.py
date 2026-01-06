@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import json
 
 # Page config
-st.set_page_config(page_title="3-Month Step Challenge", page_icon="🏆", layout="wide")
+st.set_page_config(page_title="3-Month Step Challenge!!", page_icon="🏆", layout="wide")
 
 # Initialize session state
 if 'participants' not in st.session_state:
