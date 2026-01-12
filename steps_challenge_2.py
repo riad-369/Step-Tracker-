@@ -25,49 +25,49 @@ if 'initialized' not in st.session_state:
         'Riad': {
             'color': '#3B82F6',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 28000},
-                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 32500},
-                {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 95000}
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 0}
+               # {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 32500},
+               # {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 95000}
             ]
         },
         'Keith': {
             'color': '#10B981',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 35000},
-                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 42000},
-                {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 38000}
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 0}
+                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 42000},
+                #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 38000}
             ]
         },
         'Hari': {
             'color': '#F59E0B',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 21000},
-                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 24500},
-                {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 28000}
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 0}
+                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 24500},
+                #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 28000}
             ]
         },
         'Victoria': {
             'color': '#EF4444',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 45000},
-                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 52000},
-                {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 48000}
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 0}
+                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 52000},
+                #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 48000}
             ]
         },
         'Leigeme': {
             'color': '#8B5CF6',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 18000},
-                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 22000},
-                {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 19500}
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 0}
+                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 22000},
+                #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 19500}
             ]
         },
         'Derek': {
             'color': '#EC4899',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 31000},
-                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 29000},
-                {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 35000}
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 0}
+                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 29000},
+                #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 35000}
             ]
         }
     }
