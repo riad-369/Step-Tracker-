@@ -25,8 +25,8 @@ if 'initialized' not in st.session_state:
         'Riad': {
             'color': '#3B82F6',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 27752}
-               # {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 32500},
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 27752},
+                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 49292}
                # {'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 95000}
             ]
         },
@@ -49,24 +49,24 @@ if 'initialized' not in st.session_state:
         'Victoria': {
             'color': '#EF4444',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 30160}
-                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 52000},
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 30160},
+                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 23677}
                 #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 48000}
             ]
         },
         'Leigeme': {
             'color': '#8B5CF6',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 37615}
-                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 22000},
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 37615},
+                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 31684}
                 #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 19500}
             ]
         },
         'Derek': {
             'color': '#EC4899',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 24767}
-                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 29000},
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 24767},
+                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 31123}
                 #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 35000}
             ]
         }
