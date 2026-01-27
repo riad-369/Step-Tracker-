@@ -33,8 +33,8 @@ if 'initialized' not in st.session_state:
         'Keith': {
             'color': '#10B981',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 23976}
-                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 42000},
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 23976},
+                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 15678}
                 #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 38000}
             ]
         },
