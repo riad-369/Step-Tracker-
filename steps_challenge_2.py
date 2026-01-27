@@ -41,8 +41,8 @@ if 'initialized' not in st.session_state:
         'Hari': {
             'color': '#F59E0B',
             'entries': [
-                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 39056}
-                #{'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 24500},
+                {'week_start': '2026-01-12', 'week_end': '2026-01-18', 'steps': 39056},
+                {'week_start': '2026-01-19', 'week_end': '2026-01-25', 'steps': 22940}
                 #{'week_start': '2026-01-26', 'week_end': '2026-02-01', 'steps': 28000}
             ]
         },
