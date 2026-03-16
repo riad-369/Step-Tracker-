@@ -32,8 +32,8 @@ if 'initialized' not in st.session_state:
                 {'week_start': '2026-02-09', 'week_end': '2026-02-15', 'steps': 87871},
                 {'week_start': '2026-02-16', 'week_end': '2026-02-22', 'steps': 62596},
                 {'week_start': '2026-02-23', 'week_end': '2026-03-01', 'steps': 60270},
-                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 67470}
-                
+                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 67470},
+                {'week_start': '2026-03-09', 'week_end': '2026-03-15', 'steps': 73953}
                 
             ]
         },
@@ -47,7 +47,8 @@ if 'initialized' not in st.session_state:
                 {'week_start': '2026-02-09', 'week_end': '2026-02-15', 'steps': 47051},
                 {'week_start': '2026-02-16', 'week_end': '2026-02-22', 'steps': 25021},
                 {'week_start': '2026-02-23', 'week_end': '2026-03-01', 'steps': 34393},
-                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 17212}
+                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 17212},
+                {'week_start': '2026-03-09', 'week_end': '2026-03-15', 'steps': 9442}
             ]
         },
         'Hari': {
@@ -60,7 +61,8 @@ if 'initialized' not in st.session_state:
                 {'week_start': '2026-02-09', 'week_end': '2026-02-15', 'steps': 0},
                 {'week_start': '2026-02-16', 'week_end': '2026-02-22', 'steps': 11217},
                 {'week_start': '2026-02-23', 'week_end': '2026-03-01', 'steps': 0},
-                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 0}
+                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 18000},
+                {'week_start': '2026-03-09', 'week_end': '2026-03-15', 'steps': 10247}
                 
             ]
         },
@@ -74,7 +76,8 @@ if 'initialized' not in st.session_state:
                 {'week_start': '2026-02-09', 'week_end': '2026-02-15', 'steps': 57004},
                 {'week_start': '2026-02-16', 'week_end': '2026-02-22', 'steps': 46579},
                 {'week_start': '2026-02-23', 'week_end': '2026-03-01', 'steps': 69893},
-                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 82045}
+                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 82045},
+                {'week_start': '2026-03-09', 'week_end': '2026-03-15', 'steps': 83561}
             ]
         },
         'Leigeme': {
@@ -87,7 +90,8 @@ if 'initialized' not in st.session_state:
                 {'week_start': '2026-02-09', 'week_end': '2026-02-15', 'steps': 53486},
                 {'week_start': '2026-02-16', 'week_end': '2026-02-22', 'steps': 81073},
                 {'week_start': '2026-02-23', 'week_end': '2026-03-01', 'steps': 45666},
-                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 41435}
+                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 41435},
+                {'week_start': '2026-03-09', 'week_end': '2026-03-15', 'steps': 40021}
                 
             ]
         },
@@ -101,7 +105,8 @@ if 'initialized' not in st.session_state:
                 {'week_start': '2026-02-09', 'week_end': '2026-02-15', 'steps': 30615},
                 {'week_start': '2026-02-16', 'week_end': '2026-02-22', 'steps': 26455},
                 {'week_start': '2026-02-23', 'week_end': '2026-03-01', 'steps': 27421},
-                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 30734}
+                {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 30734},
+                {'week_start': '2026-03-09', 'week_end': '2026-03-15', 'steps': 20338}
                 
             ]
         }
