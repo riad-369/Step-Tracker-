@@ -48,7 +48,7 @@ if 'initialized' not in st.session_state:
                 {'week_start': '2026-02-16', 'week_end': '2026-02-22', 'steps': 25021},
                 {'week_start': '2026-02-23', 'week_end': '2026-03-01', 'steps': 34393},
                 {'week_start': '2026-03-02', 'week_end': '2026-03-08', 'steps': 17212},
-                {'week_start': '2026-03-09', 'week_end': '2026-03-15', 'steps': 9442}
+                {'week_start': '2026-03-09', 'week_end': '2026-03-15', 'steps': 94420}
             ]
         },
         'Hari': {
